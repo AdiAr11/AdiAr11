@@ -11,6 +11,6 @@ Contributing to Open Source here on Github
 
 ### Contact with me
 
-[<img src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png"/>](https://www.linkedin.com/in/aditya-arora-a72b4b1a9/)
+[<div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>](https://www.linkedin.com/in/aditya-arora-a72b4b1a9/)
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/_AdiAr)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_adi_arora/)
