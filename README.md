@@ -11,6 +11,6 @@ Contributing to Open Source here on Github
 
 ### Contact with me
 
-[<img align="left"  | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/145/145807.png" />](https://www.linkedin.com/in/aditya-arora-a72b4b1a9/)
+[<img align="left"  | LinkedIn" width="22px" <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/> />](https://www.linkedin.com/in/aditya-arora-a72b4b1a9/)
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/_AdiAr)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_adi_arora/)
