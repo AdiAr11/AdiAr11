@@ -15,4 +15,7 @@ Contributing to Open Source here on Github
 [<img align="left" alt="AdityaArora | Twitter" width="22px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />](https://twitter.com/_AdiAr)
 [<img align="left" alt="AdityaArora | Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />](https://www.instagram.com/_adi_arora/)
 
+<br />
+<br />
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiAr11&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
