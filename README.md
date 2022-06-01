@@ -1,9 +1,8 @@
 ### Hi there, I'm Aditya Arora 👋
 
-Passionate Software Engineer currently working on developing apps for Android.
+Passionate Software Engineer.
 Contributing to Open Source here on Github
 
-- 🔭 I’m currently working on developing Android apps
 - 🌱 I’m currently learning anything and everything that interests me
 - 👯 Always looking to collaborate
 - 😄 Pronouns: he / him
@@ -18,4 +17,4 @@ Contributing to Open Source here on Github
 <br />
 <br />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiAr11&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiAr11&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
