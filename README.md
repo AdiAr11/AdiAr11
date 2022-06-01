@@ -3,6 +3,8 @@
 Passionate Software Engineer.
 Contributing to Open Source here on Github
 
+![](https://komarev.com/ghpvc/?username=AdiAr11&color=blue)
+
 - 🌱 I’m currently learning anything and everything that interests me
 - 👯 Always looking to collaborate
 - 😄 Pronouns: he / him
