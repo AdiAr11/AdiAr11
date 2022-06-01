@@ -17,4 +17,4 @@ Contributing to Open Source here on Github
 <br />
 <br />
 
-[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiAr11&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiAr11&show_icons=true&theme=vision-friendly-dark)](https://github.com/AdiAr11)
