@@ -1,4 +1,4 @@
-### Hi there, I'm Aditya Arora 👋
+### Hi there, I'm Aditya Arora <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
 
 Passionate Software Engineer.
 Contributing to Open Source here on Github
