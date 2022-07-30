@@ -14,7 +14,7 @@ Contributing to Open Source here on Github
 
 [<img align="left" alt="AdityaArora | Twitter" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" />](https://www.linkedin.com/in/aditya-arora-a72b4b1a9/)
 [<img align="left" alt="AdityaArora | Twitter" width="22px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />](https://twitter.com/_AdiAr)
-[<img align="left" alt="AdityaArora | Instagram" width="22px" src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" />](https://www.instagram.com/_adi_arora/)
+[<img align="left" alt="AdityaArora | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/1200px-Instagram_icon.png?20200512141346" />](https://www.instagram.com/_adi_arora/)
 
 <br />
 <br />
