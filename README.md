@@ -1,13 +1,14 @@
-### Hi there, I'm Aditya Arora <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
+### Hi, I'm Aditya Arora <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
 
 Passionate Software Engineer.
-Contributing to Open Source here on Github
+Contributing to Open Source here on Github.
+
 
 ![](https://komarev.com/ghpvc/?username=AdiAr11&color=blue)
 
-- 🌱 I’m currently learning anything and everything that interests me
-- 👯 Always looking to collaborate
-- 😄 Pronouns: he / him
+- 🌱 I’m currently learning anything and everything that interests me.
+- 👨‍💻 Always looking to collaborate.
+- ⚡ Fun fact: I love to play video games 🎮 & watching anime 📺.
 <!--- 📫 You can reach me at: [Linkedin](https://www.linkedin.com/in/aditya-arora-a72b4b1a9/)  |  [Twitter](https://twitter.com/_AdiAr)  |  [Instagram](https://www.instagram.com/_adi_arora/) --->
 
 ### Contact with me
