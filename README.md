@@ -8,7 +8,7 @@ Contributing to Open Source here on Github.
 
 - 🌱 I’m currently learning anything and everything that interests me.
 - 👨‍💻 Always looking to collaborate.
-- ⚡ Fun fact: I love to listen to music ♪ 🎧, play video games 🎮 & watch anime 📺.
+- ⚡ Fun fact: I love to listen to music 🎤 ♪ 🎧, play video games 🎮 & watch anime 📺.
 <!--- 📫 You can reach me at: [Linkedin](https://www.linkedin.com/in/aditya-arora-a72b4b1a9/)  |  [Twitter](https://twitter.com/_AdiAr)  |  [Instagram](https://www.instagram.com/_adi_arora/) --->
 
 ### Contact with me
