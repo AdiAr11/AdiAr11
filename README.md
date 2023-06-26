@@ -1,17 +1,20 @@
-### Hi, I'm Aditya Arora <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">
+<h1 align="center">Hi, I'm Aditya Arora, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Pawan Kumar</h1>
 
 Passionate Software Engineer.
 Contributing to Open Source here on Github.
 
 
-![](https://komarev.com/ghpvc/?username=AdiAr11&color=blue)
-
+![](https://komarev.com/ghpvc/?username=AdiAr11&label=Views&color=blue&style=plastic&style=for-the-badge)
+# About Me :
 - 🌱 I’m currently learning anything and everything that interests me.
 - 👨‍💻 Always looking to collaborate.
 - ⚡ Fun fact: I love to listen to music 🎤 ♪ 🎧, play video games 🎮 & watch anime 📺.
 <!--- 📫 You can reach me at: [Linkedin](https://www.linkedin.com/in/aditya-arora-a72b4b1a9/)  |  [Twitter](https://twitter.com/_AdiAr)  |  [Instagram](https://www.instagram.com/_adi_arora/) --->
 
-### Contact with me
+## 🌐 Connect with me
 
 [<img align="left" alt="AdityaArora | Twitter" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon.svg" />](https://www.linkedin.com/in/aditya-arora-a72b4b1a9/)
 [<img align="left" alt="AdityaArora | Twitter" width="22px" src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" />](https://twitter.com/_AdiAr)
