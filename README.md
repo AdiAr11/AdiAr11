@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Aditya Arora, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Pawan Kumar</h1>
+         width="45" /></h1>
 
 Passionate Software Engineer.
 Contributing to Open Source here on Github.
