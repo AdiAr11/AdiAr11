@@ -31,4 +31,4 @@ Contributing to Open Source here on Github.
 <br />
 
 [![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdiAr11&show_icons=true&theme=vision-friendly-dark)](https://github.com/AdiAr11)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AdiAr11&theme=dark&background=45%2C6C63FF%2CD743D0)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AdiAr11&theme=dark&ring=EB3E1E&background=45%2C651052%2C250D0D)](https://git.io/streak-stats)
